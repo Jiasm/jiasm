@@ -8,4 +8,4 @@ Night job 研究 GO 语言以及打算看看 Python 与 Rust。
 
 经常沉迷 Civilization 不能自拔：https://steamcommunity.com/id/jiashunming/。
 
-[![Jiasm's github stats](https://github-readme-stats.vercel.app/api?username=jiasm&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiasm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiasm's github stats](https://github-readme-stats.vercel.app/api?username=jiasm&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiasm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
